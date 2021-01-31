@@ -1,0 +1,4 @@
+Pages\AddCategory.class
+Util\LaunchBrowser.class
+Pages\AddDuplicateCategory.class
+Pages\DropDown.class
